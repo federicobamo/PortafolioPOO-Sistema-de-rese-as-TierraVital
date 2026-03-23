@@ -1,4 +1,4 @@
- Sistema de Gestión de Huéspedes - Tierra Vital 
+** Sistema de Gestión de Huéspedes - Tierra Vital **
 
 Sistema desarrollado en Java para el Airbnb "Tierra Vital" ubicado en Atenas, Costa Rica. 
 Permite registrar visitas, reservas y reseñas de huéspedes de todo el mundo.
