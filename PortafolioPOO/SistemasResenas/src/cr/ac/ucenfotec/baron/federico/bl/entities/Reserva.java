@@ -16,8 +16,8 @@ public class Reserva {
     public Reserva() {
     }
 
-    public Reserva(LocalDate fechaEntrada, LocalDate fechaSalida, Casa casa, Anfitrion anfitrion, double pagoReserva, Resena resena) {
-
+    public Reserva(LocalDate fechaEntrada, LocalDate fechaSalida, Casa casa,
+                   Anfitrion anfitrion, double pagoReserva, Resena resena) {
         this.numeroReserva = numeroReserva + 1;
         this.idReserva = numeroReserva;
         this.fechaEntrada = fechaEntrada;
@@ -27,7 +27,6 @@ public class Reserva {
         this.pagoReserva = pagoReserva;
         this.resena = resena;
     }
-
     public static int getNumeroReserva() {
         return numeroReserva;
     }
